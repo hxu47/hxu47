@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Huidong Xu, and I'm a passionate Data Scientist with hands-on experience in implementing various machine learning algorithms and building data-driven applications. I love working on challenging projects, and I'm always eager to learn and explore new techniques to enhance my skills and contribute to the world of data science.
+My name is Huidong Xu, and I'm a passionate Data Scientist with 3+ years of experience in implementing various machine learning algorithms and building data-driven applications. I love working on challenging projects, and I'm always eager to learn and explore new techniques to enhance my skills and contribute to the world of data science.
 
 ## 💼 Work Experience
 
@@ -23,10 +23,10 @@ I am an AI data scientist at Lemonade, I focused on risk prediction and automati
 
 - **[Article-Recommendation-Engine](https://github.com/hxu47/Article-Recommendation-Engine)**: A web application that recommends BBC articles based on user preferences using word2vec.
 - **[Sentiment-Analysis-with-Naive-Bayes-from-Scratch](https://github.com/hxu47/Sentiment-Analysis-with-Naive-Bayes-from-Scratch)**: A sentiment analysis project using a Naive Bayes classifier built from scratch.
-- **[Decision-Tree-from-Scratch](https://github.com/hxu47/Decision-Tree-from-Scratch)**: An implementation of the Decision Tree algorithm from scratch.
-- **Random-Forest-from-Scratch**: An implementation of the Random Forest algorithm comparable to Scikit-learn's.
-- **Linear-Regression-from-Scratch**: An implementation of Regularized Linear and Logistic Regression with Gradient Descent from scratch.
 - **[KMeans-from-Scratch](https://github.com/hxu47/KMeans-from-Scratch)**: An implementation of the K-means clustering algorithm from scratch.
+- **[Decision-Tree-from-Scratch](https://github.com/hxu47/Decision-Tree-from-Scratch)**: An implementation of the Decision Tree algorithm from scratch.
+- **[Random-Forest-from-Scratch](https://github.com/hxu47/Random-Forest-from-Scratch)**: An implementation of the Random Forest algorithm comparable to Scikit-learn's.
+- **[Linear-Regression-from-Scratch](https://github.com/hxu47/Linear-Regression-from-Scratch)**: An implementation of Regularized Linear and Logistic Regression with Gradient Descent from scratch.
 - **[Feature-Importance](https://github.com/hxu47/Feature-Importance)**: A repository showcasing the implementation of various feature importance techniques for machine learning models.
 
 ## 📫 How to Reach Me
