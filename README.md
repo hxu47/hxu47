@@ -14,11 +14,6 @@ I am an AI data scientist at Lemonade, I focused on risk prediction and automati
 - Created a web application for searching and labeling vehicle photos using Streamlit, reducing manual working time by 20 hours per month.
 
 
-## 📚 Academic Projects
-
-- **Machine Learning Algorithms from Scratch**: I have implemented various machine learning algorithms comparable to Scikit-learn's, including Regularized Linear and Logistic Regression with Gradient Descent, Naive Bayes, Decision Trees, Random Forest, K-means Clustering, Boosting, and Automated Feature Selection Algorithms.
-- **BBC Article Recommendations**: I built a web server using Flask and EC2 to display BBC article recommendations using word2vec.
-
 ## 🌐 GitHub Repositories
 
 - **[Article-Recommendation-Engine](https://github.com/hxu47/Article-Recommendation-Engine)**: A web application that recommends BBC articles based on user preferences using word2vec.
