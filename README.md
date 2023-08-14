@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Huidong Xu, and I'm a passionate Data Scientist with 3+ years of experience in implementing various machine learning algorithms and building data-driven applications. I love working on challenging projects, and I'm always eager to learn and explore new techniques to enhance my skills and contribute to the world of data science.
+My name is Huidong Xu, and I'm a full-stack Data Scientist with 3+ years of experience in implementing various machine learning algorithms and building data-driven applications. I love working on challenging projects, and I'm always eager to learn and explore new techniques to enhance my skills and contribute to the world of data.
 
 ## 💼 Work Experience
 
