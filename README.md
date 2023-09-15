@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Huidong(Sophie)**. With over 3 years of experience, I specialize in implementing machine learning algorithms and crafting scalable data-driven applications. My strengths lie in handling vast datasets and creating optimized ETL processes. I'm passionate about the ever-evolving world of data and always eager to learn, adapt, and contribute.
+I'm **Sophie(Huidong)**. With over 3+ years of experience, I specialize in implementing machine learning algorithms and crafting scalable data-driven applications. My strengths lie in handling vast datasets and creating optimized ETL processes. I'm passionate about the ever-evolving world of data and always eager to learn, adapt, and contribute.
 
 ## 🛠 Work Experience:
 
@@ -24,8 +24,8 @@ I'm **Huidong(Sophie)**. With over 3 years of experience, I specialize in implem
 - **[Semantic Search Engine](https://github.com/hxu47/sbert-search-bar)**: Launched a resilient search engine, fortified with a Jenkins CI/CD pipeline for timely updates.
 - **[Netflix Data Analysis ETL](https://github.com/hxu47/ETL-Pipeline-for-Netflix-Data-Analysis)**: Crafted an ETL pipeline with DBT, Snowflake, and Airflow. Visualization made possible with Quicksight.
 - **[Article Recommendation Engine](https://github.com/hxu47/Article-Recommendation-Engine)**: A web application that recommends BBC articles based on user preferences using word2vec.
-- **Machine Learning Implementations**: Demonstrated in-depth understanding with ground-up creations of ML algorithms like **[Sentiment Analysis with Naive Bayes](https://github.com/hxu47/Sentiment-Analysis-with-Naive-Bayes-from-Scratch)**, **[KMeans](https://github.com/hxu47/KMeans-from-Scratch)**, **[Decision Tree](https://github.com/hxu47/Decision-Tree-from-Scratch)**, **[Random Forest](https://github.com/hxu47/Random-Forest-from-Scratch)**, **[Linear Regression](https://github.com/hxu47/Linear-Regression-from-Scratch)**
 - **[Feature Importance Exploration](https://github.com/hxu47/Feature-Importance)**: Detailed exploration of diverse feature-importance methods for ML models.
+- **Machine Learning Implementations**: Demonstrated in-depth understanding with ground-up creations of ML algorithms like **[Sentiment Analysis with Naive Bayes](https://github.com/hxu47/Sentiment-Analysis-with-Naive-Bayes-from-Scratch)**, **[KMeans](https://github.com/hxu47/KMeans-from-Scratch)**, **[Decision Tree](https://github.com/hxu47/Decision-Tree-from-Scratch)**, **[Random Forest](https://github.com/hxu47/Random-Forest-from-Scratch)**, **[Linear Regression](https://github.com/hxu47/Linear-Regression-from-Scratch)**
 
 ---
 
