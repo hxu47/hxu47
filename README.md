@@ -24,6 +24,7 @@ I'm **Sophie(Huidong)**. With over 3+ years of experience, I specialize in imple
 - **[Semantic Search Engine](https://github.com/hxu47/sbert-search-bar)**: Launched a resilient search engine, fortified with a Jenkins CI/CD pipeline for timely updates.
 - **[Netflix Data Analysis ETL](https://github.com/hxu47/ETL-Pipeline-for-Netflix-Data-Analysis)**: Crafted an ETL pipeline with DBT, Snowflake, and Airflow. Visualization made possible with Quicksight.
 - **[Article Recommendation Engine](https://github.com/hxu47/Article-Recommendation-Engine)**: A web application that recommends BBC articles based on user preferences using word2vec.
+- **[Spark Streaming](https://github.com/hxu47/Databricks-Real-Time-Streaming-with-Event-Hubs-and-Snowflake)**: Real-time data ingestion and processing using Azure Event Hub, Databricks, and Snowflake.
 - **[Feature Importance Exploration](https://github.com/hxu47/Feature-Importance)**: Detailed exploration of diverse feature-importance methods for ML models.
 - **Machine Learning Implementations**: Demonstrated in-depth understanding with ground-up creations of ML algorithms like **[Sentiment Analysis with Naive Bayes](https://github.com/hxu47/Sentiment-Analysis-with-Naive-Bayes-from-Scratch)**, **[KMeans](https://github.com/hxu47/KMeans-from-Scratch)**, **[Decision Tree](https://github.com/hxu47/Decision-Tree-from-Scratch)**, **[Random Forest](https://github.com/hxu47/Random-Forest-from-Scratch)**, **[Linear Regression](https://github.com/hxu47/Linear-Regression-from-Scratch)**
 
